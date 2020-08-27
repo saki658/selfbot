@@ -1,2 +1,0 @@
-# selfbot
-Walal zacky

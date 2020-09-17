@@ -32,6 +32,6 @@ $ apt install git
 
 $ git clone https://github.com/saki658/selfbot
 
-$ cd SELFMAX
+$ cd Selfbot
 
 $ python3 max.py
